@@ -2,9 +2,6 @@
 
 A user-friendly desktop application built with Python for batch processing images. This tool empowers users to efficiently resize, compress, add watermarks, and convert the format of entire folders of images, saving significant time compared to manual editing.
 
-![Screenshot of the application](https://i.imgur.com/your-screenshot-url.png)
-*(**Action Required:** Take a screenshot of your dark-themed app, upload it to [Imgur](https://imgur.com/upload), and paste the "Direct Link" here. A GIF showing it in action would be even more impressive!)*
-
 ---
 
 ## 🌟 About The Project
@@ -79,3 +76,4 @@ and find the application in the dist folder.
 
 ## 👤 Author
 Haidar Dagham
+
