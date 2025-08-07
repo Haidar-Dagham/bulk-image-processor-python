@@ -16,7 +16,7 @@ The application is built entirely with standard Python libraries, making it ligh
 -   📏 **Image Resizing:** Standardize image dimensions with custom width and height.
 -   💧 **Text Watermarking:** Automatically add a customizable text watermark to protect your work.
 -   🔄 **Format Conversion:** Convert between **JPEG, PNG, WEBP, GIF, and BMP**.
--   🗜️ **Smart Compression:** Reduce file size with an adjustable quality slider that works for both lossy (JPEG/WEBP) and lossless (PNG) compression.
+-   🗜️ **Smart Compression:** Reduce file size with an adjustable quality slider.
 -   🎨 **Custom Branded UI:** A sleek, modern dark-themed interface built with Python's native **Tkinter** library.
 -   🖥️ **Cross-Platform:** Runs on Windows, macOS, and Linux.
 
@@ -76,4 +76,5 @@ and find the application in the dist folder.
 
 ## 👤 Author
 Haidar Dagham
+
 
