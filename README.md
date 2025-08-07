@@ -66,15 +66,15 @@ To launch the application, execute the following command from the project's root
 
 ```sh
 python image_processor_app.py
-
+```
 
 A standalone executable (.exe) can also be created using PyInstaller.
 Run the command:
+```sh
 pyinstaller --onefile --windowed --icon="icon.ico" image_processor_app.py
+```
 and find the application in the dist folder.
 
 
 ## 👤 Author
 Haidar Dagham
-
-
