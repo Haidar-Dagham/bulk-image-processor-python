@@ -1,4 +1,4 @@
-# Dagham.com - Bulk Image Processor (Python & Tkinter)
+# Bulk Image Processor (Python & Tkinter)
 
 A user-friendly desktop application built with Python for batch processing images. This tool empowers users to efficiently resize, compress, add watermarks, and convert the format of entire folders of images, saving significant time compared to manual editing.
 
@@ -29,6 +29,15 @@ This project leverages the power of core Python libraries to deliver a robust us
 * [**Python**](https://www.python.org/) - The core programming language.
 * [**Tkinter**](https://docs.python.org/3/library/tkinter.html) - For the native graphical user interface (GUI).
 * [**Pillow (PIL Fork)**](https://python-pillow.org/) - For all image manipulation and processing tasks.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Bulk Image Processor' Desktop View</strong><br>
+  <img src="Screenshot.png" width="600" alt="Desktop Screenshot">
+</p>
 
 ---
 
@@ -78,3 +87,4 @@ and find the application in the dist folder.
 
 ## 👤 Author
 Haidar Dagham
+
